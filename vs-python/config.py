@@ -1,0 +1,1 @@
+#Config file define all global varaibles here
