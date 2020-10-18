@@ -187,7 +187,7 @@ def add_to_project_existing():
         return
     else:
         pick_file()
-        if current_file !    = "":
+        if current_file != "":
             return
         else:
             user_input()
